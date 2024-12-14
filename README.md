@@ -21,9 +21,15 @@ This repository contains notebooks `bii-phx.ipynb` whose goal is to analyze the 
     |   tl_2020_04_cousub.shp.iso.xml
     |   tl_2020_04_cousub.shx
 ```
+## About the Data:
 
-## Data
-All data is housed within the repository and will run with the proper packages installed. To access the data, run the notebook cell by cell.
+All data is housed within the repository and will run with the proper packages installed. To access the data, run the notebook cell by cell. For more information on the data, refer to the citations below.
+
+### Arizona Shapefiles
+The U.S. Census Bureau's TIGER/Line Arizona Shapefile is a set of shapefiles that outline boundaries within the state of Arizona. These files are publicly available and widely used for mapping, spatial analysis, and geographic information system (GIS) applications. Information such as counties, cities, census tracts and districts, roads, rivers, and lakes is included. 
+
+### Biodiversity Intactness Index (BII)
+This dataset consists of maps of global biodiversity intactness. This Microsoft Planetary Computer STAC Collection builds models of biodiversity and human relationships. The BII is modeled from abundance and compositional similarity. This dataset will help us visualize and analyze the change in biodiversity intactness through the years.
 
 ## References
 United States Census Bureau [2020 TIGER/Line Shapefiles](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County+Subdivisions)
